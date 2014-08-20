@@ -1,0 +1,9 @@
+{
+    "name": "boxxy/commons",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/username/hello-world"
+        }
+    ]
+}
