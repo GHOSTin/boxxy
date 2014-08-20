@@ -1,4 +1,5 @@
 <?php namespace boxxy;
+// 123
 class autoload{
 
   private static $paths = [];
