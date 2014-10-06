@@ -1,0 +1,15 @@
+{
+    "name": "boxxy/commons",
+    "description": "Boxxy Framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eugene Nekrasov",
+            "email": "nekrasov@mlsco.ru"
+        },
+        {
+            "name": "Vyacheslav Nemytov",
+            "email": "lwhiteghostl@gmail.com"
+        }
+    ]
+}
